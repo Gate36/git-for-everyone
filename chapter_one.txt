@@ -8,6 +8,4 @@ Fusce condimentum id neque ac tempus.
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 Phasellus pulvinar aliquam laoreet. Ut suscipit augue elit, at rutrum nisl gravida nec. 
 Donec ligula risus, vulputate non lobortis ac, porta non dui. 
-Cras vitae mauris congue, tempor urna vel, vehicula arcu.
-
-And then he lives alive his life.
+Paco vitae mauris congue, tempor urna vel, vehicula arcu.
